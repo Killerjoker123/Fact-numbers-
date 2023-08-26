@@ -1,4 +1,6 @@
-# swap-numbers-
-Write algorithm swap the number 
+#include<stdio.h>
+int main()
+{
+"hello"
+}
 
-c
